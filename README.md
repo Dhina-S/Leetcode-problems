@@ -1,0 +1,40 @@
+<!-- ALGOVAULT:STATS:START -->
+# 🚀 Data Structures & Algorithms Master Repository
+
+A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DhinaSelvaraj?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+</p>
+
+# 📚 Structured Problem Solving Topics
+
+
+### General
+<details>
+<summary>Click to expand General problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| — | [Invert Binary Tree](./General/Invert%20Binary%20Tree/) | Medium |
+
+</details>
+
+
+### Tree
+<details>
+<summary>Click to expand Tree problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
+| 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
+
+</details>
+
+
+<p align="center">
+Building Technical Excellence Through Consistent Problem Solving.
+</p>
+
+<!-- ALGOVAULT:STATS:END -->
