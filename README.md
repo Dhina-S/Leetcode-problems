@@ -10,6 +10,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
+### Array
+<details>
+<summary>Click to expand Array problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
+
+</details>
+
+
 ### General
 <details>
 <summary>Click to expand General problems</summary>
