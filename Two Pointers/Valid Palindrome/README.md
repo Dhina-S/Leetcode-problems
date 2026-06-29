@@ -5,61 +5,44 @@
 
 ## Problem Statement
 
-A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+<p>A phrase is a <strong>palindrome</strong> if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.</p>
 
-Given a string s, return true if it is a palindrome, or false otherwise.
+<p>Given a string <code>s</code>, return <code>true</code><em> if it is a <strong>palindrome</strong>, or </em><code>false</code><em> otherwise</em>.</p>
 
- 
-Example 1:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Input: s = "A man, a plan, a canal: Panama"
-Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
+<pre>
+<strong>Input:</strong> s = &quot;A man, a plan, a canal: Panama&quot;
+<strong>Output:</strong> true
+<strong>Explanation:</strong> &quot;amanaplanacanalpanama&quot; is a palindrome.
+</pre>
 
+<p><strong class="example">Example 2:</strong></p>
 
-Example 2:
+<pre>
+<strong>Input:</strong> s = &quot;race a car&quot;
+<strong>Output:</strong> false
+<strong>Explanation:</strong> &quot;raceacar&quot; is not a palindrome.
+</pre>
 
-Input: s = "race a car"
-Output: false
-Explanation: "raceacar" is not a palindrome.
+<p><strong class="example">Example 3:</strong></p>
 
-
-Example 3:
-
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
+<pre>
+<strong>Input:</strong> s = &quot; &quot;
+<strong>Output:</strong> true
+<strong>Explanation:</strong> s is an empty string &quot;&quot; after removing non-alphanumeric characters.
 Since an empty string reads the same forward and backward, it is a palindrome.
+</pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
- 
-Constraints:
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 2 * 10<sup>5</sup></code></li>
+	<li><code>s</code> consists only of printable ASCII characters.</li>
+</ul>
 
-
-	1 <= s.length <= 2 * 105
-	s consists only of printable ASCII characters.
-
-## Examples
-
-```
-Input: s = "A man, a plan, a canal: Panama"
-Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
-
-Input: s = "race a car"
-Output: false
-Explanation: "raceacar" is not a palindrome.
-
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-```
-
-## Constraints
-
-- 1 <= s.length <= 2 * 105
-- s consists only of printable ASCII characters.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
