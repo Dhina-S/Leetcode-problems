@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/JkqMqw6rfF?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/DhinaSelvaraj?theme=dark&font=Poppins&ext=heatmap" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,6 +19,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
+
+</details>
+
+
+### Database
+<details>
+<summary>Click to expand Database problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 
 </details>
 
