@@ -1,0 +1,15 @@
+            if (s.charAt(left) != s.charAt(right)) {
+                return false; 
+            }
+            left++;
+            right--;
+        }
+             
+        return true; 
+    }
+        while (left < right) {
+        int right = s.length() - 1;
+        int left = 0;
+        s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+    public boolean isPalindrome(String s) {
+class Solution {
