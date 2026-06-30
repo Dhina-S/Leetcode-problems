@@ -1,0 +1,13 @@
+        entry:mp.entrySet()){
+            if(entry.getValue()>max){
+                max=entry.getValue();
+                key=entry.getKey();
+            }
+        }
+          list.add(key);
+          mp.put(key,-1);
+        }
+        return list;
+        
+    }
+}
