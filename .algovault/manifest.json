@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:09:38.407Z",
+  "lastUpdated": "2026-08-21T11:09:42.962Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1669,6 +1669,81 @@
               "runtime": "72 ms",
               "memory": "107.6 MB",
               "githubPath": "LeetCode/Array/Daily Temperatures/"
+            }
+          }
+        },
+        "min-stack": {
+          "questionId": "155",
+          "title": "Min Stack",
+          "titleSlug": "min-stack",
+          "difficulty": "Medium",
+          "tags": [
+            "Stack",
+            "Design"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310582962,
+              "runtime": "34 ms",
+              "memory": "99.8 MB",
+              "githubPath": "LeetCode/Stack/Min Stack/"
+            }
+          }
+        },
+        "find-all-anagrams-in-a-string": {
+          "questionId": "438",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310582962,
+              "runtime": "10 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
+            }
+          }
+        },
+        "equal-row-and-column-pairs": {
+          "questionId": "2352",
+          "title": "Equal Row and Column Pairs",
+          "titleSlug": "equal-row-and-column-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310582962,
+              "runtime": "38 ms",
+              "memory": "54.2 MB",
+              "githubPath": "LeetCode/Array/Equal Row and Column Pairs/"
+            }
+          }
+        },
+        "maximum-number-of-vowels-in-a-substring-of-given-length": {
+          "questionId": "1456",
+          "title": "Maximum Number of Vowels in a Substring of Given Length",
+          "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310582962,
+              "runtime": "13 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
             }
           }
         }
