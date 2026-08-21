@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310563853" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310567753" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,7 +19,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
+| 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
+| 78 | [Subsets](./Array/Subsets/) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 149 | [Max Points on a Line](./Array/Max%20Points%20on%20a%20Line/) | Hard |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
@@ -76,6 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
 | 424 | [Longest Repeating Character Replacement](./Hash%20Table/Longest%20Repeating%20Character%20Replacement/) | Medium |
@@ -138,6 +141,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
 | 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
 | 230 | [Kth Smallest Element in a BST](./Tree/Kth%20Smallest%20Element%20in%20a%20BST/) | Medium |
+| 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
 | 938 | [Range Sum of BST](./Tree/Range%20Sum%20of%20BST/) | Easy |
 
 </details>

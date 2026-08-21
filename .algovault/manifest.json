@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:09:23.852Z",
+  "lastUpdated": "2026-08-21T11:09:27.753Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -742,6 +742,12 @@
               "runtime": "23 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
+            },
+            "java": {
+              "syncedAt": 1787310567752,
+              "runtime": "30 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
             }
           }
         },
@@ -1261,6 +1267,83 @@
               "runtime": "4 ms",
               "memory": "81.8 MB",
               "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
+            }
+          }
+        },
+        "diameter-of-binary-tree": {
+          "questionId": "543",
+          "title": "Diameter of Binary Tree",
+          "titleSlug": "diameter-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree",
+            "DP on Trees"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310567752,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
+            }
+          }
+        },
+        "n-queens": {
+          "questionId": "51",
+          "title": "N-Queens",
+          "titleSlug": "n-queens",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Algorithm X"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310567752,
+              "runtime": "2 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/N-Queens/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310567752,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310567753,
+              "runtime": "6 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
         }
