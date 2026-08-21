@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:09:18.157Z",
+  "lastUpdated": "2026-08-21T11:09:23.852Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1091,6 +1091,176 @@
               "runtime": "553 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Calculate Special Bonus/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310563852,
+              "runtime": "591 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "degree-of-an-array": {
+          "questionId": "697",
+          "title": "Degree of an Array",
+          "titleSlug": "degree-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310563852,
+              "runtime": "5 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Degree of an Array/"
+            }
+          }
+        },
+        "kth-smallest-element-in-a-bst": {
+          "questionId": "230",
+          "title": "Kth Smallest Element in a BST",
+          "titleSlug": "kth-smallest-element-in-a-bst",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310563852,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Tree/Kth Smallest Element in a BST/"
+            }
+          }
+        },
+        "convert-sorted-array-to-binary-search-tree": {
+          "questionId": "108",
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "titleSlug": "convert-sorted-array-to-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310563852,
+              "runtime": "0 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
+            }
+          }
+        },
+        "remove-linked-list-elements": {
+          "questionId": "203",
+          "title": "Remove Linked List Elements",
+          "titleSlug": "remove-linked-list-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310563852,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Linked List/Remove Linked List Elements/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310563852,
+              "runtime": "0 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
+            }
+          }
+        },
+        "range-sum-of-bst": {
+          "questionId": "938",
+          "title": "Range Sum of BST",
+          "titleSlug": "range-sum-of-bst",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310563852,
+              "runtime": "0 ms",
+              "memory": "54 MB",
+              "githubPath": "LeetCode/Tree/Range Sum of BST/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal": {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310563852,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "minimum-depth-of-binary-tree": {
+          "questionId": "111",
+          "title": "Minimum Depth of Binary Tree",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310563852,
+              "runtime": "4 ms",
+              "memory": "81.8 MB",
+              "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
             }
           }
         }

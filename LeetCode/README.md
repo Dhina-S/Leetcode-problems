@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310558158" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310563853" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
+| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 149 | [Max Points on a Line](./Array/Max%20Points%20on%20a%20Line/) | Hard |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
@@ -29,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 498 | [Diagonal Traverse](./Array/Diagonal%20Traverse/) | Medium |
 | 599 | [Minimum Index Sum of Two Lists](./Array/Minimum%20Index%20Sum%20of%20Two%20Lists/) | Easy |
+| 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
@@ -61,6 +63,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](./Database/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/) | Easy |
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
 | 1729 | [Find Followers Count](./Database/Find%20Followers%20Count/) | Easy |
+| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 | 1978 | [Employees Whose Manager Left the Company](./Database/Employees%20Whose%20Manager%20Left%20the%20Company/) | Easy |
 
@@ -87,6 +90,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
+| 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
 | 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
 
 </details>
@@ -127,9 +132,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
 | 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
+| 230 | [Kth Smallest Element in a BST](./Tree/Kth%20Smallest%20Element%20in%20a%20BST/) | Medium |
+| 938 | [Range Sum of BST](./Tree/Range%20Sum%20of%20BST/) | Easy |
 
 </details>
 
