@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310582964" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310588009" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -22,8 +22,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
+| 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
+| 135 | [Candy](./Array/Candy/) | Hard |
 | 149 | [Max Points on a Line](./Array/Max%20Points%20on%20a%20Line/) | Hard |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
@@ -36,9 +38,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 599 | [Minimum Index Sum of Two Lists](./Array/Minimum%20Index%20Sum%20of%20Two%20Lists/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Medium |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
+| 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
+| 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
+| 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
+| 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1700 | [Number of Students Unable to Eat Lunch](./Array/Number%20of%20Students%20Unable%20to%20Eat%20Lunch/) | Easy |
