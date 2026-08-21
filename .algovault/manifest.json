@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:09:07.229Z",
+  "lastUpdated": "2026-08-21T11:09:13.082Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -373,6 +373,12 @@
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Add Two Integers/"
+            },
+            "csharp": {
+              "syncedAt": 1787310553082,
+              "runtime": "0 ms",
+              "memory": "28.9 MB",
+              "githubPath": "LeetCode/Math/Add Two Integers/"
             }
           }
         },
@@ -736,6 +742,219 @@
               "runtime": "23 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "goal-parser-interpretation": {
+          "questionId": "1678",
+          "title": "Goal Parser Interpretation",
+          "titleSlug": "goal-parser-interpretation",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1787310553082,
+              "runtime": "69 ms",
+              "memory": "40.1 MB",
+              "githubPath": "LeetCode/String/Goal Parser Interpretation/"
+            }
+          }
+        },
+        "defanging-an-ip-address": {
+          "questionId": "1108",
+          "title": "Defanging an IP Address",
+          "titleSlug": "defanging-an-ip-address",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1787310553082,
+              "runtime": "65 ms",
+              "memory": "39.3 MB",
+              "githubPath": "LeetCode/String/Defanging an IP Address/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1787310553082,
+              "runtime": "112 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1787310553082,
+              "runtime": "0 ms",
+              "memory": "51.9 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1787310553082,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310553082,
+              "runtime": "588 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "find-all-lonely-numbers-in-the-array": {
+          "questionId": "2150",
+          "title": "Find All Lonely Numbers in the Array",
+          "titleSlug": "find-all-lonely-numbers-in-the-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310553082,
+              "runtime": "79 ms",
+              "memory": "153.9 MB",
+              "githubPath": "LeetCode/Array/Find All Lonely Numbers in the Array/"
+            }
+          }
+        },
+        "longest-repeating-character-replacement": {
+          "questionId": "424",
+          "title": "Longest Repeating Character Replacement",
+          "titleSlug": "longest-repeating-character-replacement",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310553082,
+              "runtime": "11 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
+            }
+          }
+        },
+        "max-consecutive-ones-iii": {
+          "questionId": "1004",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310553082,
+              "runtime": "3 ms",
+              "memory": "52.2 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "find-followers-count": {
+          "questionId": "1729",
+          "title": "Find Followers Count",
+          "titleSlug": "find-followers-count",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310553082,
+              "runtime": "956 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Followers Count/"
+            }
+          }
+        },
+        "article-views-i": {
+          "questionId": "1148",
+          "title": "Article Views I",
+          "titleSlug": "article-views-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310553082,
+              "runtime": "459 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Article Views I/"
+            }
+          }
+        },
+        "customer-placing-the-largest-number-of-orders": {
+          "questionId": "586",
+          "title": "Customer Placing the Largest Number of Orders",
+          "titleSlug": "customer-placing-the-largest-number-of-orders",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310553082,
+              "runtime": "478 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
             }
           }
         }
