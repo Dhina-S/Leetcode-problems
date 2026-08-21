@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:09:13.082Z",
+  "lastUpdated": "2026-08-21T11:09:18.157Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -955,6 +955,142 @@
               "runtime": "478 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310558157,
+              "runtime": "256 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "game-play-analysis-i": {
+          "questionId": "511",
+          "title": "Game Play Analysis I",
+          "titleSlug": "game-play-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310558157,
+              "runtime": "1261 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Game Play Analysis I/"
+            }
+          }
+        },
+        "duplicate-emails": {
+          "questionId": "182",
+          "title": "Duplicate Emails",
+          "titleSlug": "duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310558157,
+              "runtime": "382 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Duplicate Emails/"
+            }
+          }
+        },
+        "triangle-judgement": {
+          "questionId": "610",
+          "title": "Triangle Judgement",
+          "titleSlug": "triangle-judgement",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310558157,
+              "runtime": "456 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Triangle Judgement/"
+            }
+          }
+        },
+        "employees-whose-manager-left-the-company": {
+          "questionId": "1978",
+          "title": "Employees Whose Manager Left the Company",
+          "titleSlug": "employees-whose-manager-left-the-company",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310558157,
+              "runtime": "364 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Whose Manager Left the Company/"
+            }
+          }
+        },
+        "patients-with-a-condition": {
+          "questionId": "1527",
+          "title": "Patients With a Condition",
+          "titleSlug": "patients-with-a-condition",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310558157,
+              "runtime": "785 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Patients With a Condition/"
+            }
+          }
+        },
+        "not-boring-movies": {
+          "questionId": "620",
+          "title": "Not Boring Movies",
+          "titleSlug": "not-boring-movies",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310558157,
+              "runtime": "263 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Not Boring Movies/"
+            }
+          }
+        },
+        "calculate-special-bonus": {
+          "questionId": "1873",
+          "title": "Calculate Special Bonus",
+          "titleSlug": "calculate-special-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310558157,
+              "runtime": "553 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Calculate Special Bonus/"
             }
           }
         }
