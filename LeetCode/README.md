@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310572450" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310578408" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -32,10 +32,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 498 | [Diagonal Traverse](./Array/Diagonal%20Traverse/) | Medium |
+| 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 599 | [Minimum Index Sum of Two Lists](./Array/Minimum%20Index%20Sum%20of%20Two%20Lists/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
+| 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
@@ -71,6 +73,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 | 1978 | [Employees Whose Manager Left the Company](./Database/Employees%20Whose%20Manager%20Left%20the%20Company/) | Easy |
+
+</details>
+
+
+### Design
+<details>
+<summary>Click to expand Design problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 933 | [Number of Recent Calls](./Design/Number%20of%20Recent%20Calls/) | Easy |
 
 </details>
 
@@ -122,6 +135,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
+| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
+| 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
+| 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
+
+</details>
+
+
 ### String
 <details>
 <summary>Click to expand String problems</summary>
@@ -130,6 +157,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 
@@ -161,6 +189,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |

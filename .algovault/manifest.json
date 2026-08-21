@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:09:32.449Z",
+  "lastUpdated": "2026-08-21T11:09:38.407Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1492,6 +1492,183 @@
               "runtime": "0 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm",
+            "Boyer–Moore String-Search Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "next-greater-element-ii": {
+          "questionId": "503",
+          "title": "Next Greater Element II",
+          "titleSlug": "next-greater-element-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "14 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element II/"
+            }
+          }
+        },
+        "dota2-senate": {
+          "questionId": "649",
+          "title": "Dota2 Senate",
+          "titleSlug": "dota2-senate",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "11 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Dota2 Senate/"
+            }
+          }
+        },
+        "number-of-recent-calls": {
+          "questionId": "933",
+          "title": "Number of Recent Calls",
+          "titleSlug": "number-of-recent-calls",
+          "difficulty": "Easy",
+          "tags": [
+            "Design",
+            "Queue",
+            "Data Stream"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "22 ms",
+              "memory": "59.9 MB",
+              "githubPath": "LeetCode/Design/Number of Recent Calls/"
+            }
+          }
+        },
+        "implement-queue-using-stacks": {
+          "questionId": "232",
+          "title": "Implement Queue using Stacks",
+          "titleSlug": "implement-queue-using-stacks",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Design",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Stack/Implement Queue using Stacks/"
+            }
+          }
+        },
+        "binary-tree-postorder-traversal": {
+          "questionId": "145",
+          "title": "Binary Tree Postorder Traversal",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
+            }
+          }
+        },
+        "binary-tree-preorder-traversal": {
+          "questionId": "144",
+          "title": "Binary Tree Preorder Traversal",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
+            }
+          }
+        },
+        "binary-tree-inorder-traversal": {
+          "questionId": "94",
+          "title": "Binary Tree Inorder Traversal",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
+            }
+          }
+        },
+        "daily-temperatures": {
+          "questionId": "739",
+          "title": "Daily Temperatures",
+          "titleSlug": "daily-temperatures",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310578407,
+              "runtime": "72 ms",
+              "memory": "107.6 MB",
+              "githubPath": "LeetCode/Array/Daily Temperatures/"
             }
           }
         }
