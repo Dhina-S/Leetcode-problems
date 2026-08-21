@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:08:57.783Z",
+  "lastUpdated": "2026-08-21T11:09:01.949Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -451,6 +451,121 @@
               "runtime": "43 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Top K Frequent Elements/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310541949,
+              "runtime": "6 ms",
+              "memory": "49.5 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310541949,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "number-of-students-unable-to-eat-lunch": {
+          "questionId": "1700",
+          "title": "Number of Students Unable to Eat Lunch",
+          "titleSlug": "number-of-students-unable-to-eat-lunch",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Stack",
+            "Queue",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310541949,
+              "runtime": "2 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Number of Students Unable to Eat Lunch/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310541949,
+              "runtime": "3 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "ransom-note": {
+          "questionId": "383",
+          "title": "Ransom Note",
+          "titleSlug": "ransom-note",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310541949,
+              "runtime": "20 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/Ransom Note/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310541949,
+              "runtime": "14 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
             }
           }
         }
