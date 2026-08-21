@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310541950" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310547230" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,15 +16,21 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 149 | [Max Points on a Line](./Array/Max%20Points%20on%20a%20Line/) | Hard |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 498 | [Diagonal Traverse](./Array/Diagonal%20Traverse/) | Medium |
+| 599 | [Minimum Index Sum of Two Lists](./Array/Minimum%20Index%20Sum%20of%20Two%20Lists/) | Easy |
 | 1700 | [Number of Students Unable to Eat Lunch](./Array/Number%20of%20Students%20Unable%20to%20Eat%20Lunch/) | Easy |
+| 3838 | [Weighted Word Mapping](./Array/Weighted%20Word%20Mapping/) | Easy |
 
 </details>
 
@@ -52,6 +58,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
+| 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
 
 </details>
 
@@ -87,6 +94,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 
 </details>
@@ -116,6 +124,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 647 | [Palindromic Substrings](./Two%20Pointers/Palindromic%20Substrings/) | Medium |
+| 680 | [Valid Palindrome II](./Two%20Pointers/Valid%20Palindrome%20II/) | Easy |
 
 </details>
 
