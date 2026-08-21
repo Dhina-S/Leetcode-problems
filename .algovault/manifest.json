@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:08:47.950Z",
+  "lastUpdated": "2026-08-21T11:08:57.783Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -204,6 +204,253 @@
               "runtime": "3 ms",
               "memory": "52.6 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "1 ms",
+              "memory": "69.3 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "number-of-steps-to-reduce-a-number-to-zero": {
+          "questionId": "1342",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            }
+          }
+        },
+        "permutations": {
+          "questionId": "46",
+          "title": "Permutations",
+          "titleSlug": "permutations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Permutations/"
+            }
+          }
+        },
+        "invert-binary-tree": {
+          "questionId": "226",
+          "title": "Invert Binary Tree",
+          "titleSlug": "invert-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Tree/Invert Binary Tree/"
+            }
+          }
+        },
+        "same-tree": {
+          "questionId": "100",
+          "title": "Same Tree",
+          "titleSlug": "same-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Tree/Same Tree/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "8 ms",
+              "memory": "56.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "reverse-string": {
+          "questionId": "344",
+          "title": "Reverse String",
+          "titleSlug": "reverse-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "1 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+            }
+          }
+        },
+        "fibonacci-number": {
+          "questionId": "509",
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "10 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Fibonacci Number/"
+            }
+          }
+        },
+        "add-two-integers": {
+          "questionId": "2235",
+          "title": "Add Two Integers",
+          "titleSlug": "add-two-integers",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Add Two Integers/"
+            }
+          }
+        },
+        "reverse-vowels-of-a-string": {
+          "questionId": "345",
+          "title": "Reverse Vowels of a String",
+          "titleSlug": "reverse-vowels-of-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "5 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
+            }
+          }
+        },
+        "diagonal-traverse": {
+          "questionId": "498",
+          "title": "Diagonal Traverse",
+          "titleSlug": "diagonal-traverse",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "3 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Diagonal Traverse/"
+            }
+          }
+        },
+        "students-and-examinations": {
+          "questionId": "1280",
+          "title": "Students and Examinations",
+          "titleSlug": "students-and-examinations",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310537783,
+              "runtime": "1413 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Students and Examinations/"
+            }
+          }
+        },
+        "top-k-frequent-elements": {
+          "questionId": "347",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310537783,
+              "runtime": "43 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Top K Frequent Elements/"
             }
           }
         }
