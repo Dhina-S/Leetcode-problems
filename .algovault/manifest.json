@@ -1,0 +1,214 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-21T11:08:47.823Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "customer-who-visited-but-did-not-make-any-transactions": {
+          "questionId": "1581",
+          "title": "Customer Who Visited but Did Not Make Any Transactions",
+          "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310527823,
+              "runtime": "2013 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Who Visited but Did Not Make Any Transactions/"
+            }
+          }
+        },
+        "replace-employee-id-with-the-unique-identifier": {
+          "questionId": "1378",
+          "title": "Replace Employee ID With The Unique Identifier",
+          "titleSlug": "replace-employee-id-with-the-unique-identifier",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310527823,
+              "runtime": "1578 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
+            }
+          }
+        },
+        "invalid-tweets": {
+          "questionId": "1683",
+          "title": "Invalid Tweets",
+          "titleSlug": "invalid-tweets",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310527823,
+              "runtime": "597 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Invalid Tweets/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787310527823,
+              "runtime": "543 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "palindromic-substrings": {
+          "questionId": "647",
+          "title": "Palindromic Substrings",
+          "titleSlug": "palindromic-substrings",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310527823,
+              "runtime": "6 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Palindromic Substrings/"
+            }
+          }
+        },
+        "max-points-on-a-line": {
+          "questionId": "149",
+          "title": "Max Points on a Line",
+          "titleSlug": "max-points-on-a-line",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310527823,
+              "runtime": "27 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Max Points on a Line/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310527823,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "non-overlapping-intervals": {
+          "questionId": "435",
+          "title": "Non-overlapping Intervals",
+          "titleSlug": "non-overlapping-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310527823,
+              "runtime": "53 ms",
+              "memory": "115.9 MB",
+              "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310527823,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "maximum-depth-of-binary-tree": {
+          "questionId": "104",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310527823,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787310527823,
+              "runtime": "3 ms",
+              "memory": "52.6 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        }
+      },
+      "username": "DhinaSelvaraj"
+    }
+  }
+}

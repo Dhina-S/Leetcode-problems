@@ -1,118 +1,23 @@
 <!-- ALGOVAULT:STATS:START -->
-# 🚀 Data Structures & Algorithms Master Repository
+# 🏆 Ultimate Competitive Programming & DSA Vault
 
-A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
+Welcome to my **Master Repository** for Data Structures, Algorithms, and Competitive Programming! 🚀
+
+This repository contains my personal library of highly optimized, strictly tested, and structured solutions to problems across multiple platforms. It is designed to track my progress, document optimal coding patterns, and demonstrate technical excellence in problem-solving.
+
+## 📊 Real-Time Performance Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DhinaSelvaraj?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DhinaSelvaraj?theme=tokyonight&show=graph,recent&v=1787310528554" width="100%" />
 </p>
 
-# 📚 Structured Problem Solving Topics
+## 📂 Repository Structure
 
+- **[LeetCode](./LeetCode)**: Topic-wise FAANG interview preparation and algorithmic challenges.
 
-### Array
-<details>
-<summary>Click to expand Array problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
-| 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
-| 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Easy |
-| 692 | [Top K Frequent Words](./Array/Top%20K%20Frequent%20Words/) | Easy |
-| 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
-| 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
-| 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
-
-</details>
-
-
-### Database
-<details>
-<summary>Click to expand Database problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
-| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
-| 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
-| 586 | [Customer Placing the Largest Number of Orders](./Database/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/) | Easy |
-| 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
-| 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
-| 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
-| 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
-| 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
-| 1729 | [Find Followers Count](./Database/Find%20Followers%20Count/) | Easy |
-| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
-| 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
-| 1978 | [Employees Whose Manager Left the Company](./Database/Employees%20Whose%20Manager%20Left%20the%20Company/) | Easy |
-
-</details>
-
-
-### General
-<details>
-<summary>Click to expand General problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| — | [Invert Binary Tree](./General/Invert%20Binary%20Tree/) | Medium |
-
-</details>
-
-
-### Hash Table
-<details>
-<summary>Click to expand Hash Table problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 424 | [Longest Repeating Character Replacement](./Hash%20Table/Longest%20Repeating%20Character%20Replacement/) | Medium |
-
-</details>
-
-
-### Math
-<details>
-<summary>Click to expand Math problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
-
-</details>
-
-
-### Tree
-<details>
-<summary>Click to expand Tree problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
-| 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
-| 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
-| 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
-| 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
-| 230 | [Kth Smallest Element in a BST](./Tree/Kth%20Smallest%20Element%20in%20a%20BST/) | Medium |
-
-</details>
-
-
-### Two Pointers
-<details>
-<summary>Click to expand Two Pointers problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
-| 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
-
-</details>
-
-
+---
 <p align="center">
-Building Technical Excellence Through Consistent Problem Solving.
+  <i>Auto-generated & continuously synced by <b>AlgoVault</b>. Building technical excellence through consistent problem solving.</i>
 </p>
 
 <!-- ALGOVAULT:STATS:END -->
