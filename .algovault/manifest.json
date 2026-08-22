@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:09:48.009Z",
+  "lastUpdated": "2026-08-22T08:37:36.178Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1883,6 +1883,23 @@
               "runtime": "3 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "average-time-of-process-per-machine": {
+          "questionId": "1661",
+          "title": "Average Time of Process per Machine",
+          "titleSlug": "average-time-of-process-per-machine",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787387856178,
+              "runtime": "271 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Average Time of Process per Machine/"
             }
           }
         }
